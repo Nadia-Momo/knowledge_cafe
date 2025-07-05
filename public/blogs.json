@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "cover": "https://i.ibb.co/yFt5D8GJ/2.png",
+    "title": "Exploring the Stars",
+    "author": "Alice Johnson",
+    "author_img": "https://example.com/images/authors/alice.jpg",
+    "posted_date": "2025-06-25",
+    "reading_time": 8,
+    "hashtags": ["#space", "#astronomy", "#science"]
+  },
+  {
+    "id": "2",
+    "cover": "https://i.ibb.co/XZ077h40/Rectangle-1.png",
+    "title": "The Art of Code",
+    "author": "Brian Smith",
+    "author_img": "https://example.com/images/authors/brian.jpg",
+    "posted_date": "2025-06-20",
+    "reading_time": 6,
+    "hashtags": ["#coding", "#programming", "#design"]
+  },
+  {
+    "id": "3",
+    "cover": "https://i.ibb.co/zTnXH5WT/Rectangle-1-1.png",
+    "title": "Journey Through Quantum",
+    "author": "Catherine Lee",
+    "author_img": "https://example.com/images/authors/catherine.jpg",
+    "posted_date": "2025-06-15",
+    "reading_time": 10,
+    "hashtags": ["#quantum", "#technology", "#future"]
+  },
+  {
+    "id": "4",
+    "cover": "https://i.ibb.co/C5C33DB8/3.png",
+    "title": "Designing the Future",
+    "author": "David Kim",
+    "author_img": "https://example.com/images/authors/david.jpg",
+    "posted_date": "2025-06-10",
+    "reading_time": 7,
+    "hashtags": ["#design", "#innovation", "#ux"]
+  },
+  {
+    "id": "5",
+    "cover": "https://i.ibb.co/JjTvcGyj/4.jpg",
+    "title": "AI and Society",
+    "author": "Emma Davis",
+    "author_img": "https://example.com/images/authors/emma.jpg",
+    "posted_date": "2025-06-05",
+    "reading_time": 5,
+    "hashtags": ["#ai", "#society", "#ethics"]
+  }
+]
